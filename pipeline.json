@@ -1,0 +1,2795 @@
+{
+ "generatedAt": "2026-11-27T06:54:58Z",
+ "commit": "54a066f",
+ "perDay": 4,
+ "slotsET": [
+  "09:00",
+  "12:00",
+  "15:00",
+  "20:00"
+ ],
+ "routines": [
+  {
+   "name": "AstrolGuru Shorts: daily",
+   "runs": "Every day, 06:00 UTC",
+   "does": "Makes the day's four films (All about a sign; a sign's 2027; love, career or money in 2027; a coming sky event for one sign) and schedules them in Buffer (docs/DAILY.md). Topic films stopped Nov 25.",
+   "state": "on",
+   "note": ""
+  },
+  {
+   "name": "AstrolGuru Lists: daily",
+   "runs": "Every day, 05:00 UTC",
+   "does": "Renders and schedules the day's list reel (docs/LISTS.md).",
+   "state": "paused",
+   "note": "Paused on Nov 25 2026 at the owner's request. Its 12:00 PM slot now carries the All about <Sign> film."
+  },
+  {
+   "name": "AstrolGuru Stories: daily",
+   "runs": "Every day, 13:00 UTC",
+   "does": "Posts the daily Instagram Story cards (docs/STORIES.md).",
+   "state": "off",
+   "note": ""
+  }
+ ],
+ "queues": [
+  {
+   "key": "year",
+   "name": "A sign's whole 2027",
+   "slot": "8:00 PM ET, every day",
+   "items": [
+    {
+     "id": "A1",
+     "title": "Scorpio: 2027 is the year your work finally gets seen",
+     "note": "the year",
+     "state": "made",
+     "when": "Fri Nov 20, 9:00 AM ET",
+     "dueAt": "2026-11-20T14:00:00.000Z",
+     "folder": "story-001-scorpio-rising",
+     "guide": "",
+     "posted": "Scorpio rising: your next six months",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b00173f29e3b73db736be4a",
+      "6b001740d6ba71125faea026",
+      "6b001741b3576a91c14d19d1"
+     ]
+    },
+    {
+     "id": "A2",
+     "title": "Pisces: your first break from Saturn comes in June 2027",
+     "note": "the year",
+     "state": "made",
+     "when": "Sat Nov 21, 8:00 PM ET",
+     "dueAt": "2026-11-22T01:00:00.000Z",
+     "folder": "a-002-pisces-2027",
+     "guide": "",
+     "posted": "Pisces: your 2027 in 60 seconds",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b00bcba5102766245d4c9a3",
+      "6b00bcbb9ffbc8503cd8f2f7",
+      "6b00bcbcdd205ed77999fb28"
+     ]
+    },
+    {
+     "id": "A3",
+     "title": "Leo: Jupiter comes home to you in June 2027",
+     "note": "the year",
+     "state": "made",
+     "when": "Sun Nov 22, 8:00 PM ET",
+     "dueAt": "2026-11-23T01:00:00.000Z",
+     "folder": "a-003-leo-2027",
+     "guide": "https://www.astrolguru.com/guides/leo-2027",
+     "posted": "Leo: your 2027 in 60 seconds",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b013ac7dd205ed779c434ca",
+      "6b013ac820a2d09a0adb3689",
+      "6b013ac8d9cbb430a1252b9b"
+     ]
+    },
+    {
+     "id": "A4",
+     "title": "Aries: 2027 asks you to grow up fast, and pays you for it",
+     "note": "the year",
+     "state": "made"
+    },
+    {
+     "id": "A5",
+     "title": "Cancer: your luckiest five months in 12 years start in January",
+     "note": "the year",
+     "state": "skipped",
+     "why": "already posted on Nov 21 2026 as 'Cancer: your 2027 in 60 seconds' (sg-004-cancer-2027)"
+    },
+    {
+     "id": "A6",
+     "title": "Capricorn: Rahu is in your sign all year. Who are you becoming?",
+     "note": "the year",
+     "state": "made",
+     "when": "Mon Nov 23, 8:00 PM ET",
+     "dueAt": "2026-11-24T01:00:00.000Z",
+     "folder": "a-006-capricorn-2027",
+     "guide": "https://www.astrolguru.com/guides/capricorn-2027",
+     "posted": "Capricorn: your 2027 in 60 seconds",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b034020846b0ee907af72c0",
+      "6b034021c72676f5e95387ec",
+      "6b034021c72676f5e9538816"
+     ]
+    },
+    {
+     "id": "A7",
+     "title": "Gemini: 2027 is a money year, if you drop one habit",
+     "note": "the year",
+     "state": "skipped",
+     "why": "already posted on Nov 21 2026 as 'Gemini: your 2027 in 60 seconds' (sg-003-gemini-2027)"
+    },
+    {
+     "id": "A8",
+     "title": "Aquarius: seven and a half hard years are nearly done",
+     "note": "the year",
+     "state": "made",
+     "when": "Tue Nov 24, 8:00 PM ET",
+     "dueAt": "2026-11-25T01:00:00.000Z",
+     "folder": "a-008-aquarius-2027",
+     "guide": "https://www.astrolguru.com/guides/aquarius-2027",
+     "posted": "Aquarius: your 2027 in 60 seconds",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b034027846b0ee907af78a7",
+      "6b034028bf5d5a73b6b62760",
+      "6b034028c72676f5e9538d77"
+     ]
+    },
+    {
+     "id": "A9",
+     "title": "Virgo: 2027 tests your closest relationship and rewards your network",
+     "note": "the year",
+     "state": "made",
+     "when": "Thu Nov 26, 8:00 PM ET",
+     "dueAt": "2026-11-27T01:00:00.000Z",
+     "folder": "a-009-virgo-2027",
+     "guide": "https://www.astrolguru.com/guides/virgo-2027",
+     "posted": "Virgo: your 2027 in 60 seconds",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b0533ed286252d7383d8fe8",
+      "6b0533ee31056e7b6e7e6fc1",
+      "6b0533ef6e04c676c372ce60"
+     ]
+    },
+    {
+     "id": "A10",
+     "title": "Taurus: 2027 is the year your patience pays out",
+     "note": "the year",
+     "state": "skipped",
+     "why": "already posted on Nov 20 2026 as 'Taurus: your 2027 in 60 seconds' (sg-002-taurus-2027)"
+    },
+    {
+     "id": "A11",
+     "title": "Sagittarius: 2027 is about home, roots and one big reset",
+     "note": "the year",
+     "state": "made",
+     "when": "Wed Nov 25, 8:00 PM ET",
+     "dueAt": "2026-11-26T01:00:00.000Z",
+     "folder": "a-011-sagittarius-2027",
+     "guide": "https://www.astrolguru.com/guides/sagittarius-2027",
+     "posted": "Sagittarius: your 2027 in 60 seconds",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b03402a846b0ee907af79d9",
+      "6b03402abf5d5a73b6b62892",
+      "6b03402bd5eabfb8ccd23354"
+     ]
+    },
+    {
+     "id": "A12",
+     "title": "Libra: your career peaks in the first half of 2027",
+     "note": "the year",
+     "state": "made",
+     "when": "Fri Nov 27, 8:00 PM ET",
+     "dueAt": "2026-11-28T01:00:00.000Z",
+     "folder": "a-012-libra-2027",
+     "guide": "https://www.astrolguru.com/guides/libra-2027",
+     "posted": "Libra: your 2027 in 60 seconds",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b068611b6204bca46d38209",
+      "6b068611b6204bca46d38255",
+      "6b068612c68d7845a48b8184"
+     ]
+    },
+    {
+     "id": "A37",
+     "title": "Pisces: the three months that change your 2027",
+     "note": "the year again",
+     "state": "made",
+     "when": "Sat Nov 28, 8:00 PM ET",
+     "dueAt": "2026-11-29T01:00:00.000Z",
+     "folder": "a-037-pisces-2027",
+     "guide": "https://www.astrolguru.com/guides/pisces-2027-three-doors",
+     "posted": "Pisces: the three months that change your 2027",
+     "services": [
+      "tiktok",
+      "youtube"
+     ],
+     "postIds": [
+      "6b092931776ce21276f2e6b0",
+      "6b0929321fd46e62e71e482c"
+     ]
+    },
+    {
+     "id": "A38",
+     "title": "Cancer: your 2027, half by half: the lucky half and the building half",
+     "note": "the year again",
+     "state": "next"
+    },
+    {
+     "id": "A39",
+     "title": "Aries: the three dates that turn your 2027",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A40",
+     "title": "Capricorn: your 2027, half by half: who you become, and who stays",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A41",
+     "title": "Gemini: the three months that change your 2027",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A42",
+     "title": "Scorpio: the three dates that turn your 2027",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A43",
+     "title": "Aquarius: your 2027, half by half: the last climb, then the view",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A44",
+     "title": "Sagittarius: the three months that change your 2027",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A45",
+     "title": "Virgo: the three dates that turn your 2027",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A46",
+     "title": "Libra: your 2027, half by half: the peak, then the test",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A47",
+     "title": "Leo: your 2027 again: the quiet half, then your half",
+     "note": "the year again",
+     "state": "waiting"
+    },
+    {
+     "id": "A48",
+     "title": "Taurus: your 2027 again: the year your patience pays out",
+     "note": "the year again",
+     "state": "waiting"
+    }
+   ]
+  },
+  {
+   "key": "love",
+   "name": "A sign's love, career or money in 2027 (mixed)",
+   "slot": "9:00 AM ET",
+   "items": [
+    {
+     "id": "A13",
+     "title": "Scorpio: why love feels slow right now, and when it speeds up",
+     "note": "love",
+     "state": "made",
+     "when": "Fri Nov 27, 9:00 AM ET",
+     "dueAt": "2026-11-27T14:00:00.000Z",
+     "folder": "a-013-scorpio-love-2027",
+     "guide": "https://www.astrolguru.com/guides/scorpio-love-2027",
+     "posted": "Scorpio: your love life in 2027",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b06860622dfb7833a896e33",
+      "6b06860740e1d58d1206bb31",
+      "6b068608c68d7845a48b7c08"
+     ]
+    },
+    {
+     "id": "A15",
+     "title": "Leo: the relationship chaos of 2026 is ending",
+     "note": "love",
+     "state": "made"
+    },
+    {
+     "id": "A17",
+     "title": "Cancer: an unusual someone walks in during 2027",
+     "note": "love",
+     "state": "made",
+     "when": "Wed Nov 25, 9:00 AM ET",
+     "dueAt": "2026-11-25T14:00:00.000Z",
+     "folder": "a-017-cancer-love-2027",
+     "guide": "https://www.astrolguru.com/guides/cancer-love-2027",
+     "posted": "Cancer: your love life in 2027",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b03e191cc364169c1b92cb4",
+      "6b03e191cc364169c1b92d09",
+      "6b03e192c72676f5e991c787"
+     ]
+    },
+    {
+     "id": "A18",
+     "title": "Capricorn: your best marriage window in 12 years",
+     "note": "love",
+     "state": "made",
+     "when": "Sat Nov 28, 9:00 AM ET",
+     "dueAt": "2026-11-28T14:00:00.000Z",
+     "folder": "c-018-capricorn-love-2027",
+     "guide": "https://www.astrolguru.com/guides/capricorn-love-2027",
+     "posted": "Capricorn: your love life in 2027",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b07d79663939e1d007c62d5",
+      "6b07d79617fc84b971ad0f8c",
+      "6b07d797f13f49a9259b6290"
+     ]
+    },
+    {
+     "id": "A31",
+     "title": "Gemini: the work pressure eases in June",
+     "note": "work and money",
+     "state": "made",
+     "when": "Thu Nov 26, 9:00 AM ET",
+     "dueAt": "2026-11-26T14:00:00.000Z",
+     "folder": "a-031-gemini-career-2027",
+     "guide": "https://www.astrolguru.com/guides/gemini-career-2027",
+     "posted": "Gemini: your career in 2027, and when the pressure eases",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6b0533e9060d9b6482533026",
+      "6b0533e9060d9b6482533070",
+      "6b0533eaf1f043512327c31f"
+     ]
+    },
+    {
+     "id": "A32",
+     "title": "Aquarius: money has been tight. Here is when it loosens",
+     "note": "work and money",
+     "state": "skipped",
+     "why": "a repeat: 'Aquarius: your 2027 in 60 seconds' (a-008, posted Nov 24) led with Saturn's last stretch in the house of money, the same headline (as C3 was skipped on Nov 24)"
+    },
+    {
+     "id": "A33",
+     "title": "Virgo: the first half of 2027 is your earning window",
+     "note": "work and money",
+     "state": "made",
+     "when": "Sun Nov 29, 9:00 AM ET",
+     "dueAt": "2026-11-29T14:00:00.000Z",
+     "folder": "a-033-virgo-money-2027",
+     "guide": "https://www.astrolguru.com/guides/virgo-money-2027",
+     "posted": "Virgo: your money in 2027",
+     "services": [
+      "tiktok",
+      "youtube"
+     ],
+     "postIds": [
+      "6b092934776ce21276f2e730",
+      "6b092934062ed764a8ef7ade"
+     ]
+    },
+    {
+     "id": "A26",
+     "title": "Pisces: the surprise income source of 2027",
+     "note": "work and money",
+     "state": "next"
+    },
+    {
+     "id": "A28",
+     "title": "Aries: an unexpected career jump is on the table",
+     "note": "work and money",
+     "state": "waiting"
+    },
+    {
+     "id": "A19",
+     "title": "Gemini: single or taken, here is your 2027",
+     "note": "love",
+     "state": "waiting"
+    },
+    {
+     "id": "A29",
+     "title": "Cancer: more responsibility and more status, from June",
+     "note": "work and money",
+     "state": "waiting"
+    },
+    {
+     "id": "A22",
+     "title": "Taurus: slow, steady and finally sure. Your love life in 2027",
+     "note": "love",
+     "state": "waiting"
+    },
+    {
+     "id": "A27",
+     "title": "Leo: 2027 is the year you beat the competition",
+     "note": "work and money",
+     "state": "waiting"
+    },
+    {
+     "id": "A35",
+     "title": "Sagittarius: big money appetite, big money lesson",
+     "note": "work and money",
+     "state": "waiting"
+    },
+    {
+     "id": "A24",
+     "title": "Libra: the relationship test that starts in June 2027",
+     "note": "love",
+     "state": "waiting"
+    },
+    {
+     "id": "A34",
+     "title": "Taurus: years of work start paying in 2027",
+     "note": "work and money",
+     "state": "waiting"
+    },
+    {
+     "id": "A14",
+     "title": "Pisces: the romance window that opens in January",
+     "note": "love",
+     "state": "waiting"
+    },
+    {
+     "id": "A30",
+     "title": "Capricorn: in 2027 your own effort is the whole story",
+     "note": "work and money",
+     "state": "waiting"
+    },
+    {
+     "id": "A20",
+     "title": "Aquarius: love arrives in the second half of 2027",
+     "note": "love",
+     "state": "waiting"
+    },
+    {
+     "id": "A36",
+     "title": "Libra: recognition comes first, then the money",
+     "note": "work and money",
+     "state": "waiting"
+    },
+    {
+     "id": "A16",
+     "title": "Aries: love gets lucky after June 2027",
+     "note": "love",
+     "state": "waiting"
+    },
+    {
+     "id": "A25",
+     "title": "Scorpio: your promotion window opens in late June",
+     "note": "work and money",
+     "state": "waiting"
+    },
+    {
+     "id": "A21",
+     "title": "Virgo: Saturn is testing your relationship. Here is until when",
+     "note": "love",
+     "state": "waiting"
+    },
+    {
+     "id": "A23",
+     "title": "Sagittarius: the love lesson waiting for you in mid-2027",
+     "note": "love",
+     "state": "waiting"
+    }
+   ]
+  },
+  {
+   "key": "topic",
+   "name": "Topic films (stopped Nov 25)",
+   "slot": "none",
+   "items": [
+    {
+     "id": "17",
+     "title": "The last years of Rahu mahadasha",
+     "note": "dasha",
+     "state": "made",
+     "when": "Fri Nov 27, 3:00 PM ET",
+     "dueAt": "2026-11-27T20:00:00.000Z",
+     "folder": "b-017-rahu-last-years",
+     "guide": "https://www.astrolguru.com/guides/rahu-last-years",
+     "posted": "Rahu's last years: why it gets bumpy before it turns",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b06860e40e1d58d1206be88",
+      "6b06860f9cddd8483ab7b0ba"
+     ]
+    },
+    {
+     "id": "1",
+     "title": "Sade Sati: are you in it right now?",
+     "note": "Sade Sati/Saturn",
+     "state": "made",
+     "when": "Mon Nov 16, 5:00 PM ET",
+     "dueAt": "2026-11-16T22:00:00.000Z",
+     "folder": "ag-001-sade-sati",
+     "guide": "",
+     "posted": "Sade Sati: are you in it right now?",
+     "services": [
+      "tiktok",
+      "youtube"
+     ],
+     "postIds": [
+      "6afb27c90c8c027c5733c7fa",
+      "6afb27ca56f128f114f87675"
+     ]
+    },
+    {
+     "id": "2",
+     "title": "When will you get married? What your chart looks at",
+     "note": "marriage/love",
+     "state": "made",
+     "when": "Tue Nov 17, 9:00 AM ET",
+     "dueAt": "2026-11-17T14:00:00.000Z",
+     "folder": "ag-002-when-married",
+     "guide": "",
+     "posted": "When will you get married? What your chart looks at",
+     "services": [
+      "tiktok",
+      "youtube"
+     ],
+     "postIds": [
+      "6afb27cb0c8c027c5733c897",
+      "6afb27cc37f32fd42a386716"
+     ]
+    },
+    {
+     "id": "3",
+     "title": "Sun in the 1st house",
+     "note": "placement",
+     "state": "made",
+     "when": "Tue Nov 17, 8:00 PM ET",
+     "dueAt": "2026-11-18T01:00:00.000Z",
+     "folder": "ag-003-sun-1st-house",
+     "guide": "",
+     "posted": "Sun in the 1st house",
+     "services": [
+      "youtube",
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6afbf4f2df36f4d825743d74",
+      "6afc8e8f7a7b613f1693c7bb",
+      "6afc8e907a7b613f1693c7ec"
+     ]
+    },
+    {
+     "id": "4",
+     "title": "Love marriage or arranged? The signs in your chart",
+     "note": "marriage/love",
+     "state": "made",
+     "when": "Wed Nov 18, 9:00 AM ET",
+     "dueAt": "2026-11-18T14:00:00.000Z",
+     "folder": "ag-004-love-or-arranged",
+     "guide": "",
+     "posted": "Love marriage or arranged? The signs in your chart",
+     "services": [
+      "youtube",
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6afbf4f4f83aaca8f3b4bdd2",
+      "6afc8e92afa176f5999eb483",
+      "6afc8e93afa176f5999eb4b4"
+     ]
+    },
+    {
+     "id": "5",
+     "title": "Rahu mahadasha: the 18 years everyone fears",
+     "note": "dasha",
+     "state": "made",
+     "when": "Wed Nov 18, 3:00 PM ET",
+     "dueAt": "2026-11-18T20:00:00.000Z",
+     "folder": "ag-005-rahu-mahadasha",
+     "guide": "",
+     "posted": "Rahu mahadasha: the 18 years everyone fears",
+     "services": [
+      "youtube",
+      "instagram",
+      "tiktok"
+     ],
+     "postIds": [
+      "6afc8cdbafa176f5999e1f33",
+      "6afc8cdc0ec7d2b08234663c",
+      "6afc8e97f78506c8dd3b4b54"
+     ]
+    },
+    {
+     "id": "6",
+     "title": "What will your spouse look like?",
+     "note": "marriage/love",
+     "state": "made",
+     "when": "Thu Nov 19, 3:00 PM ET",
+     "dueAt": "2026-11-19T20:00:00.000Z",
+     "folder": "ag-006-spouse-look",
+     "guide": "",
+     "posted": "What will your spouse look like?",
+     "services": [
+      "tiktok",
+      "youtube",
+      "instagram"
+     ],
+     "postIds": [
+      "6afd47d42a7c523fe2b11c82",
+      "6afd47d4152518c7f464e1c1",
+      "6afd47d5739d5342ff0d3511"
+     ]
+    },
+    {
+     "id": "7",
+     "title": "Saturn in the 7th house",
+     "note": "placement",
+     "state": "made",
+     "when": "Sat Nov 21, 3:00 PM ET",
+     "dueAt": "2026-11-21T20:00:00.000Z",
+     "folder": "ag-007-saturn-7th-house",
+     "guide": "",
+     "posted": "Saturn in the 7th house",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b00b53b20a2d09a0aaddaf3",
+      "6b00b53c20a2d09a0aaddb79"
+     ]
+    },
+    {
+     "id": "8",
+     "title": "When will you get a job?",
+     "note": "career/money",
+     "state": "made",
+     "when": "Sun Nov 22, 10:09 AM ET",
+     "dueAt": "2026-11-22T15:08:58.000Z",
+     "folder": "ag-008-when-job",
+     "guide": "https://www.astrolguru.com/guides/when-will-you-get-a-job",
+     "posted": "When will you get a job? What your chart looks at",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b00b5445102766245d1b706",
+      "6b00b5455102766245d1b76e"
+     ]
+    },
+    {
+     "id": "9",
+     "title": "Are you Manglik? Can a Manglik marry a non-Manglik?",
+     "note": "dosha/remedy",
+     "state": "made",
+     "when": "Fri Nov 20, 3:00 PM ET",
+     "dueAt": "2026-11-20T20:00:00.000Z",
+     "folder": "story-004-manglik",
+     "guide": "",
+     "posted": "Are you Manglik? What it really means",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b001742d6ba71125faea117",
+      "6b00174329e3b73db736beea"
+     ]
+    },
+    {
+     "id": "11",
+     "title": "Rahu in the 5th house",
+     "note": "placement",
+     "state": "made",
+     "when": "Mon Nov 23, 3:00 PM ET",
+     "dueAt": "2026-11-23T20:00:00.000Z",
+     "folder": "b-011-rahu-in-5th",
+     "guide": "https://www.astrolguru.com/guides/rahu-why-you-fall-too-hard",
+     "posted": "Rahu: why you fall too hard, too fast",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b013b5dd9cbb430a1254dea",
+      "6b013b5e5e993799d858d0d3"
+     ]
+    },
+    {
+     "id": "12",
+     "title": "Where will you meet your spouse?",
+     "note": "marriage/love",
+     "state": "made",
+     "when": "Tue Nov 24, 3:00 PM ET",
+     "dueAt": "2026-11-24T20:00:00.000Z",
+     "folder": "b-012-meet-spouse",
+     "guide": "https://www.astrolguru.com/guides/where-will-you-meet-your-spouse",
+     "posted": "Where will you meet your spouse?",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b028dd5cc364169c1327120",
+      "6b028dd5cc364169c1327149"
+     ]
+    },
+    {
+     "id": "13",
+     "title": "Pisces Moon: you are at the peak of Sade Sati",
+     "note": "Sade Sati/Saturn",
+     "state": "skipped",
+     "why": "a repeat: 'Sade Sati: are you in it right now?' (ag-001) already gave Pisces at the peak, and 'Pisces: your 2027' (a-002) covered Saturn on the sign"
+    },
+    {
+     "id": "14",
+     "title": "Moon sign vs Sun sign: which one is really you?",
+     "note": "placement",
+     "state": "skipped",
+     "why": "a repeat: viewers would take it for 'You're probably not the sign you think you are' (astro-001)"
+    },
+    {
+     "id": "15",
+     "title": "Venus in the 7th house",
+     "note": "placement",
+     "state": "made"
+    },
+    {
+     "id": "16",
+     "title": "Will you settle abroad?",
+     "note": "career/money",
+     "state": "made"
+    },
+    {
+     "id": "101",
+     "title": "Turning 29 or 30? That is your Saturn return",
+     "note": "known age",
+     "state": "next"
+    },
+    {
+     "id": "20",
+     "title": "Why is your marriage delayed?",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "34",
+     "title": "Saturn mahadasha: 19 years",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "102",
+     "title": "In Ketu mahadasha? Why everything seems to be falling away",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "21",
+     "title": "Kaal Sarp dosha: real or not?",
+     "note": "dosha/remedy",
+     "state": "waiting"
+    },
+    {
+     "id": "30",
+     "title": "Aries Moon: your Sade Sati has just begun",
+     "note": "Sade Sati/Saturn",
+     "state": "waiting"
+    },
+    {
+     "id": "103",
+     "title": "In Jupiter mahadasha? Sixteen years of growth, and the catch",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "104",
+     "title": "In Venus mahadasha? The twenty years everyone wants",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "24",
+     "title": "Tell me your Sade Sati story",
+     "note": "community",
+     "state": "waiting"
+    },
+    {
+     "id": "105",
+     "title": "In Moon mahadasha? Ten years of feeling everything",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "29",
+     "title": "Will you marry rich?",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "106",
+     "title": "In Mercury mahadasha? Seventeen years for your mind",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "32",
+     "title": "Is a government job in your chart?",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "23",
+     "title": "Job or business? What your chart favours",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "107",
+     "title": "In Mars mahadasha? Seven fast years",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "35",
+     "title": "Pitra dosha: how to know if you have it",
+     "note": "dosha/remedy",
+     "state": "waiting"
+    },
+    {
+     "id": "108",
+     "title": "In Sun mahadasha? Six years in the spotlight",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "10",
+     "title": "2027 for your Moon sign",
+     "note": "timely",
+     "state": "waiting"
+    },
+    {
+     "id": "18",
+     "title": "The 3 houses where Rahu does best",
+     "note": "community",
+     "state": "waiting"
+    },
+    {
+     "id": "19",
+     "title": "Saturn in the 12th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "22",
+     "title": "Ketu in the 7th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "25",
+     "title": "Jupiter moves into Leo: what it means for your Moon sign",
+     "note": "timely",
+     "state": "waiting"
+    },
+    {
+     "id": "26",
+     "title": "7th lord in houses 1 to 6: who you marry",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "27",
+     "title": "7th lord in houses 7 to 12: who you marry",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "28",
+     "title": "Moon in the 8th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "31",
+     "title": "Rahu in the 8th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "33",
+     "title": "Darakaraka: the planet that describes your spouse",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "36",
+     "title": "Sun in the 12th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "37",
+     "title": "Soulmate signs in your chart",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "38",
+     "title": "Aquarius Moon: the last phase of Sade Sati",
+     "note": "Sade Sati/Saturn",
+     "state": "waiting"
+    },
+    {
+     "id": "39",
+     "title": "Mars in the 7th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "40",
+     "title": "Will AI take your job? Read your 10th house",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "41",
+     "title": "Navamsa (D9): the chart that shows your marriage",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "42",
+     "title": "Ketu mahadasha: seven strange years",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "43",
+     "title": "Venus in the 8th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "44",
+     "title": "The 3 hardest houses, and their upside",
+     "note": "community",
+     "state": "waiting"
+    },
+    {
+     "id": "45",
+     "title": "Second marriage in a chart",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "46",
+     "title": "Saturn in the 3rd house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "47",
+     "title": "Will you be rich? Signs of wealth in a chart",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "48",
+     "title": "Rahu in the 7th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "49",
+     "title": "Signs of fame in your chart",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "50",
+     "title": "Jupiter in the 1st house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "51",
+     "title": "A foreign spouse: the signs",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "52",
+     "title": "Rahu mahadasha, Mars antardasha",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "53",
+     "title": "Your past life, according to Ketu",
+     "note": "community",
+     "state": "waiting"
+    },
+    {
+     "id": "54",
+     "title": "Ketu in the 5th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "55",
+     "title": "10th lord in houses 1 to 6: your career",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "56",
+     "title": "10th lord in houses 7 to 12: your career",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "57",
+     "title": "Mercury retrograde: what it is and what to do",
+     "note": "timely",
+     "state": "waiting"
+    },
+    {
+     "id": "58",
+     "title": "Scorpio rising",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "59",
+     "title": "Will your ex come back?",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "60",
+     "title": "Saturn in the 5th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "61",
+     "title": "Remedies for a job: what the tradition suggests",
+     "note": "dosha/remedy",
+     "state": "waiting"
+    },
+    {
+     "id": "62",
+     "title": "Venus mahadasha: 20 years",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "63",
+     "title": "Sun in the 8th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "64",
+     "title": "Karmic relationships: when Rahu and Ketu tie two charts",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "65",
+     "title": "Mars in the 8th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "66",
+     "title": "Which mahadasha are you in?",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "67",
+     "title": "Children in your chart: the 5th house",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "68",
+     "title": "Jupiter in the 12th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "69",
+     "title": "I read your placement: replies to your comments",
+     "note": "community",
+     "state": "waiting"
+    },
+    {
+     "id": "70",
+     "title": "Saturn return: ages 29 and 59",
+     "note": "Sade Sati/Saturn",
+     "state": "waiting"
+    },
+    {
+     "id": "71",
+     "title": "Ketu in the 10th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "72",
+     "title": "Remedies for a delayed marriage",
+     "note": "dosha/remedy",
+     "state": "waiting"
+    },
+    {
+     "id": "73",
+     "title": "Rahu in the 6th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "74",
+     "title": "The 3 strongest placements for career",
+     "note": "community",
+     "state": "waiting"
+    },
+    {
+     "id": "75",
+     "title": "Moon in the 7th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "76",
+     "title": "Ashlesha nakshatra",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "77",
+     "title": "Jupiter mahadasha: 16 years",
+     "note": "dasha",
+     "state": "waiting"
+    },
+    {
+     "id": "78",
+     "title": "Mercury in the 12th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "79",
+     "title": "Which gemstone is yours?",
+     "note": "dosha/remedy",
+     "state": "waiting"
+    },
+    {
+     "id": "80",
+     "title": "Venus in the 1st house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "81",
+     "title": "Eclipse season: who it touches",
+     "note": "timely",
+     "state": "waiting"
+    },
+    {
+     "id": "82",
+     "title": "Ketu in the 1st house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "83",
+     "title": "Mars in the 11th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "84",
+     "title": "Kundli matching: how the 36 points work",
+     "note": "marriage/love",
+     "state": "waiting"
+    },
+    {
+     "id": "85",
+     "title": "Lagna lord in every house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "86",
+     "title": "Moon in the 11th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "87",
+     "title": "Dhaiya: Saturn's two and a half years",
+     "note": "Sade Sati/Saturn",
+     "state": "waiting"
+    },
+    {
+     "id": "88",
+     "title": "Mercury in the 6th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "89",
+     "title": "What people do in Sade Sati: the mantra and the remedies",
+     "note": "dosha/remedy",
+     "state": "waiting"
+    },
+    {
+     "id": "90",
+     "title": "Venus in the 9th house",
+     "note": "placement",
+     "state": "waiting"
+    },
+    {
+     "id": "91",
+     "title": "Atmakaraka: your soul planet",
+     "note": "community",
+     "state": "waiting"
+    },
+    {
+     "id": "92",
+     "title": "Nadi dosha: 8 of the 36 points",
+     "note": "dosha/remedy",
+     "state": "waiting"
+    },
+    {
+     "id": "93",
+     "title": "Rahu and Ketu change signs: who it hits",
+     "note": "timely",
+     "state": "waiting"
+    },
+    {
+     "id": "94",
+     "title": "The three phases of Sade Sati",
+     "note": "Sade Sati/Saturn",
+     "state": "waiting"
+    },
+    {
+     "id": "95",
+     "title": "Studying abroad: the signs",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "96",
+     "title": "Raj yoga: are you born to rise?",
+     "note": "career/money",
+     "state": "waiting"
+    },
+    {
+     "id": "97",
+     "title": "Sade Sati is not a curse: what people gained",
+     "note": "community",
+     "state": "waiting"
+    },
+    {
+     "id": "98",
+     "title": "Your month ahead by Moon sign",
+     "note": "timely",
+     "state": "waiting"
+    },
+    {
+     "id": "99",
+     "title": "This month's full moon: which nakshatra, who feels it",
+     "note": "timely",
+     "state": "waiting"
+    },
+    {
+     "id": "100",
+     "title": "Sudden money: the 8th and 11th houses",
+     "note": "career/money",
+     "state": "waiting"
+    }
+   ]
+  },
+  {
+   "key": "e",
+   "name": "All about <Sign> in 60 seconds",
+   "slot": "12:00 PM ET",
+   "items": [
+    {
+     "id": "E1",
+     "title": "All about Aries in 60 seconds",
+     "note": "Mars, fire: goes first; courage, and patience",
+     "state": "made",
+     "when": "Wed Nov 25, 3:00 PM ET",
+     "dueAt": "2026-11-25T20:00:00.000Z",
+     "folder": "all-001-aries",
+     "guide": "https://www.astrolguru.com/guides/aries-all-about",
+     "posted": "All about Aries in 60 seconds",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b03e194d864a011052a2189",
+      "6b03e194a6de38de9ec61743"
+     ]
+    },
+    {
+     "id": "E2",
+     "title": "All about Scorpio in 60 seconds",
+     "note": "Mars, water: feels everything, shows little; loyalty, and letting go",
+     "state": "made",
+     "when": "Thu Nov 26, 12:00 PM ET",
+     "dueAt": "2026-11-26T17:00:00.000Z",
+     "folder": "all-002-scorpio",
+     "guide": "https://www.astrolguru.com/guides/scorpio-all-about",
+     "posted": "All about Scorpio in 60 seconds",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b07d791d96a331f4a69430c",
+      "6b07d792d96a331f4a694363"
+     ]
+    },
+    {
+     "id": "E3",
+     "title": "All about Gemini in 60 seconds",
+     "note": "Mercury, air: the quick mind; curiosity, and finishing",
+     "state": "made",
+     "when": "Fri Nov 27, 12:00 PM ET",
+     "dueAt": "2026-11-27T17:00:00.000Z",
+     "folder": "all-003-gemini",
+     "guide": "https://www.astrolguru.com/guides/gemini-all-about",
+     "posted": "All about Gemini in 60 seconds",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b07d793d96a331f4a6943ef",
+      "6b07d7947cb39d7aa357c55b"
+     ]
+    },
+    {
+     "id": "E4",
+     "title": "All about Leo in 60 seconds",
+     "note": "the Sun, fire: the warm centre; generosity, and pride",
+     "state": "made",
+     "when": "Sat Nov 28, 12:00 PM ET",
+     "dueAt": "2026-11-28T17:00:00.000Z",
+     "folder": "all-004-leo",
+     "guide": "https://www.astrolguru.com/guides/leo-all-about",
+     "posted": "All about Leo in 60 seconds",
+     "services": [
+      "tiktok"
+     ],
+     "postIds": [
+      "6b09292b049983dcfb96306d"
+     ]
+    },
+    {
+     "id": "E5",
+     "title": "All about Pisces in 60 seconds",
+     "note": "Jupiter, water: the dreamer; compassion, and boundaries",
+     "state": "next"
+    },
+    {
+     "id": "E6",
+     "title": "All about Taurus in 60 seconds",
+     "note": "Venus, earth: the steady one; loyalty, and stubbornness",
+     "state": "waiting"
+    },
+    {
+     "id": "E7",
+     "title": "All about Sagittarius in 60 seconds",
+     "note": "Jupiter, fire: the free one; optimism, and bluntness",
+     "state": "waiting"
+    },
+    {
+     "id": "E8",
+     "title": "All about Cancer in 60 seconds",
+     "note": "the Moon, water: the carer; care, and moods",
+     "state": "waiting"
+    },
+    {
+     "id": "E9",
+     "title": "All about Aquarius in 60 seconds",
+     "note": "Saturn, air: the one who thinks differently; vision, and distance",
+     "state": "waiting"
+    },
+    {
+     "id": "E10",
+     "title": "All about Virgo in 60 seconds",
+     "note": "Mercury, earth: the fixer; precision, and worry",
+     "state": "waiting"
+    },
+    {
+     "id": "E11",
+     "title": "All about Libra in 60 seconds",
+     "note": "Venus, air: the peacemaker; charm, and deciding",
+     "state": "waiting"
+    },
+    {
+     "id": "E12",
+     "title": "All about Capricorn in 60 seconds",
+     "note": "Saturn, earth: the builder; discipline, and rest",
+     "state": "waiting"
+    }
+   ]
+  },
+  {
+   "key": "f",
+   "name": "A coming event in the sky, told for one sign (F)",
+   "slot": "3:00 PM ET",
+   "items": [
+    {
+     "id": "F1",
+     "title": "Cancer: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "made",
+     "when": "Thu Nov 26, 3:00 PM ET",
+     "dueAt": "2026-11-26T20:00:00.000Z",
+     "folder": "f-001-cancer-nodes",
+     "guide": "https://www.astrolguru.com/guides/cancer-rahu-ketu-december-5",
+     "posted": "Cancer: Rahu and Ketu change signs on December 5",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b0533ebca4899309e656cb9",
+      "6b0533ec286252d7383d8f75"
+     ]
+    },
+    {
+     "id": "F2",
+     "title": "Capricorn: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "next"
+    },
+    {
+     "id": "F3",
+     "title": "Aries: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "made",
+     "when": "Sat Nov 28, 3:00 PM ET",
+     "dueAt": "2026-11-28T20:00:00.000Z",
+     "folder": "f-003-aries-nodes",
+     "guide": "https://www.astrolguru.com/guides/aries-rahu-ketu-december-5",
+     "posted": "Aries: Rahu and Ketu change signs on December 5",
+     "services": [
+      "tiktok"
+     ],
+     "postIds": [
+      "6b09292c049983dcfb9631de"
+     ]
+    },
+    {
+     "id": "F4",
+     "title": "Leo: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F5",
+     "title": "Libra: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F6",
+     "title": "Aquarius: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F7",
+     "title": "Taurus: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F8",
+     "title": "Scorpio: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F9",
+     "title": "Pisces: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F10",
+     "title": "Gemini: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F11",
+     "title": "Sagittarius: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F12",
+     "title": "Virgo: Rahu and Ketu change signs on December 5",
+     "note": "2026-12-05",
+     "state": "waiting"
+    },
+    {
+     "id": "F13",
+     "title": "Cancer: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F14",
+     "title": "Scorpio: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F15",
+     "title": "Pisces: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F16",
+     "title": "Capricorn: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F17",
+     "title": "Aries: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F18",
+     "title": "Libra: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F19",
+     "title": "Taurus: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F20",
+     "title": "Virgo: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F21",
+     "title": "Gemini: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F22",
+     "title": "Leo: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F23",
+     "title": "Sagittarius: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    },
+    {
+     "id": "F24",
+     "title": "Aquarius: Jupiter moves into Cancer on January 24",
+     "note": "2027-01-24",
+     "state": "waiting"
+    }
+   ]
+  },
+  {
+   "key": "lists",
+   "name": "List reels",
+   "slot": "12:00 PM ET",
+   "items": [
+    {
+     "id": "p-001-most-problematic",
+     "title": "The most problematic zodiac signs, ranked",
+     "note": "",
+     "state": "made",
+     "when": "Mon Nov 23, 12:00 PM ET",
+     "dueAt": "2026-11-23T17:00:00.000Z",
+     "folder": "p-001-most-problematic",
+     "guide": "",
+     "posted": "The most problematic zodiac signs, ranked",
+     "services": [
+      "tiktok",
+      "instagram"
+     ],
+     "postIds": [
+      "6b0363c5d864a01105fa6f3d",
+      "6b0363c5bf5d5a73b6c4efd8"
+     ]
+    },
+    {
+     "id": "p-002-personalities",
+     "title": "Zodiac sign personalities",
+     "note": "",
+     "state": "next"
+    },
+    {
+     "id": "p-010-luckiest-2027",
+     "title": "The luckiest zodiac signs of 2027, ranked",
+     "note": "",
+     "state": "waiting"
+    },
+    {
+     "id": "p-003-red-flag",
+     "title": "Every zodiac sign's biggest red flag",
+     "note": "",
+     "state": "waiting"
+    },
+    {
+     "id": "p-006-when-hurt",
+     "title": "What every zodiac sign does when hurt",
+     "note": "",
+     "state": "waiting"
+    },
+    {
+     "id": "p-009-get-rich",
+     "title": "Zodiac signs most likely to get rich, ranked",
+     "note": "",
+     "state": "waiting"
+    },
+    {
+     "id": "p-004-green-flag",
+     "title": "Every zodiac sign's biggest green flag",
+     "note": "",
+     "state": "waiting"
+    },
+    {
+     "id": "p-011-love-2027",
+     "title": "Whose love life changes in 2027, ranked",
+     "note": "",
+     "state": "waiting"
+    },
+    {
+     "id": "p-005-when-angry",
+     "title": "Every zodiac sign when angry",
+     "note": "",
+     "state": "waiting"
+    },
+    {
+     "id": "p-007-secretly-wants",
+     "title": "What every zodiac sign secretly wants",
+     "note": "",
+     "state": "waiting"
+    },
+    {
+     "id": "p-008-toxic-trait",
+     "title": "Every zodiac sign's toxic trait",
+     "note": "",
+     "state": "waiting"
+    }
+   ]
+  }
+ ],
+ "films": [
+  {
+   "n": "A33",
+   "title": "Virgo: your money in 2027",
+   "folder": "a-033-virgo-money-2027",
+   "dueAt": "2026-11-29T14:00:00.000Z",
+   "when": "Sun Nov 29, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/virgo-money-2027",
+   "services": [
+    "tiktok",
+    "youtube"
+   ],
+   "postIds": [
+    "6b092934776ce21276f2e730",
+    "6b092934062ed764a8ef7ade"
+   ],
+   "note": "Instagram channel disconnected in Buffer on Nov 27: not posted there",
+   "replaced": ""
+  },
+  {
+   "n": "A37",
+   "title": "Pisces: the three months that change your 2027",
+   "folder": "a-037-pisces-2027",
+   "dueAt": "2026-11-29T01:00:00.000Z",
+   "when": "Sat Nov 28, 8:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/pisces-2027-three-doors",
+   "services": [
+    "tiktok",
+    "youtube"
+   ],
+   "postIds": [
+    "6b092931776ce21276f2e6b0",
+    "6b0929321fd46e62e71e482c"
+   ],
+   "note": "Instagram channel disconnected in Buffer on Nov 27: not posted there",
+   "replaced": ""
+  },
+  {
+   "n": "F3",
+   "title": "Aries: Rahu and Ketu change signs on December 5",
+   "folder": "f-003-aries-nodes",
+   "dueAt": "2026-11-28T20:00:00.000Z",
+   "when": "Sat Nov 28, 3:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/aries-rahu-ketu-december-5",
+   "services": [
+    "tiktok"
+   ],
+   "postIds": [
+    "6b09292c049983dcfb9631de"
+   ],
+   "note": "Instagram channel disconnected in Buffer on Nov 27: not posted there",
+   "replaced": ""
+  },
+  {
+   "n": "E4",
+   "title": "All about Leo in 60 seconds",
+   "folder": "all-004-leo",
+   "dueAt": "2026-11-28T17:00:00.000Z",
+   "when": "Sat Nov 28, 12:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/leo-all-about",
+   "services": [
+    "tiktok"
+   ],
+   "postIds": [
+    "6b09292b049983dcfb96306d"
+   ],
+   "note": "Instagram channel disconnected in Buffer on Nov 27: not posted there",
+   "replaced": ""
+  },
+  {
+   "n": "A18",
+   "title": "Capricorn: your love life in 2027",
+   "folder": "c-018-capricorn-love-2027",
+   "dueAt": "2026-11-28T14:00:00.000Z",
+   "when": "Sat Nov 28, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/capricorn-love-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b07d79663939e1d007c62d5",
+    "6b07d79617fc84b971ad0f8c",
+    "6b07d797f13f49a9259b6290"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "A12",
+   "title": "Libra: your 2027 in 60 seconds",
+   "folder": "a-012-libra-2027",
+   "dueAt": "2026-11-28T01:00:00.000Z",
+   "when": "Fri Nov 27, 8:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/libra-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b068611b6204bca46d38209",
+    "6b068611b6204bca46d38255",
+    "6b068612c68d7845a48b8184"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "17",
+   "title": "Rahu's last years: why it gets bumpy before it turns",
+   "folder": "b-017-rahu-last-years",
+   "dueAt": "2026-11-27T20:00:00.000Z",
+   "when": "Fri Nov 27, 3:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/rahu-last-years",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b06860e40e1d58d1206be88",
+    "6b06860f9cddd8483ab7b0ba"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "E3",
+   "title": "All about Gemini in 60 seconds",
+   "folder": "all-003-gemini",
+   "dueAt": "2026-11-27T17:00:00.000Z",
+   "when": "Fri Nov 27, 12:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/gemini-all-about",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b07d793d96a331f4a6943ef",
+    "6b07d7947cb39d7aa357c55b"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "A13",
+   "title": "Scorpio: your love life in 2027",
+   "folder": "a-013-scorpio-love-2027",
+   "dueAt": "2026-11-27T14:00:00.000Z",
+   "when": "Fri Nov 27, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/scorpio-love-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b06860622dfb7833a896e33",
+    "6b06860740e1d58d1206bb31",
+    "6b068608c68d7845a48b7c08"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "A9",
+   "title": "Virgo: your 2027 in 60 seconds",
+   "folder": "a-009-virgo-2027",
+   "dueAt": "2026-11-27T01:00:00.000Z",
+   "when": "Thu Nov 26, 8:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/virgo-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b0533ed286252d7383d8fe8",
+    "6b0533ee31056e7b6e7e6fc1",
+    "6b0533ef6e04c676c372ce60"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "CMP1",
+   "title": "Aries: who are you compatible with?",
+   "folder": "cmp-001-aries",
+   "dueAt": "2026-11-26T22:00:00.000Z",
+   "when": "Thu Nov 26, 5:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/aries-compatibility",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b0767e1b8e2338b856d5f87",
+    "6b0767e2b96dd8d3516bec59"
+   ],
+   "note": "One-off test of the compatibility series (the owner, Nov 25 2026): an extra film beside the day's four, not part of the daily job yet.",
+   "replaced": ""
+  },
+  {
+   "n": "F1",
+   "title": "Cancer: Rahu and Ketu change signs on December 5",
+   "folder": "f-001-cancer-nodes",
+   "dueAt": "2026-11-26T20:00:00.000Z",
+   "when": "Thu Nov 26, 3:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/cancer-rahu-ketu-december-5",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b0533ebca4899309e656cb9",
+    "6b0533ec286252d7383d8f75"
+   ],
+   "note": "",
+   "replaced": "Taurus: your window to move abroad"
+  },
+  {
+   "n": "E2",
+   "title": "All about Scorpio in 60 seconds",
+   "folder": "all-002-scorpio",
+   "dueAt": "2026-11-26T17:00:00.000Z",
+   "when": "Thu Nov 26, 12:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/scorpio-all-about",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b07d791d96a331f4a69430c",
+    "6b07d792d96a331f4a694363"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "A31",
+   "title": "Gemini: your career in 2027, and when the pressure eases",
+   "folder": "a-031-gemini-career-2027",
+   "dueAt": "2026-11-26T14:00:00.000Z",
+   "when": "Thu Nov 26, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/gemini-career-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b0533e9060d9b6482533026",
+    "6b0533e9060d9b6482533070",
+    "6b0533eaf1f043512327c31f"
+   ],
+   "note": "",
+   "replaced": "Leo: your love life in 2027"
+  },
+  {
+   "n": "A11",
+   "title": "Sagittarius: your 2027 in 60 seconds",
+   "folder": "a-011-sagittarius-2027",
+   "dueAt": "2026-11-26T01:00:00.000Z",
+   "when": "Wed Nov 25, 8:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/sagittarius-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b03402a846b0ee907af79d9",
+    "6b03402abf5d5a73b6b62892",
+    "6b03402bd5eabfb8ccd23354"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "E1",
+   "title": "All about Aries in 60 seconds",
+   "folder": "all-001-aries",
+   "dueAt": "2026-11-25T20:00:00.000Z",
+   "when": "Wed Nov 25, 3:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/aries-all-about",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b03e194d864a011052a2189",
+    "6b03e194a6de38de9ec61743"
+   ],
+   "note": "",
+   "replaced": "Aries: your next five weeks in love"
+  },
+  {
+   "n": "C6",
+   "title": "Cancer: your love life in 2027",
+   "folder": "a-017-cancer-love-2027",
+   "dueAt": "2026-11-25T14:00:00.000Z",
+   "when": "Wed Nov 25, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/cancer-love-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b03e191cc364169c1b92cb4",
+    "6b03e191cc364169c1b92d09",
+    "6b03e192c72676f5e991c787"
+   ],
+   "note": "",
+   "replaced": "Cancer: stuck between old beliefs and a new life?"
+  },
+  {
+   "n": "A8",
+   "title": "Aquarius: your 2027 in 60 seconds",
+   "folder": "a-008-aquarius-2027",
+   "dueAt": "2026-11-25T01:00:00.000Z",
+   "when": "Tue Nov 24, 8:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/aquarius-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b034027846b0ee907af78a7",
+    "6b034028bf5d5a73b6b62760",
+    "6b034028c72676f5e9538d77"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "12",
+   "title": "Where will you meet your spouse?",
+   "folder": "b-012-meet-spouse",
+   "dueAt": "2026-11-24T20:00:00.000Z",
+   "when": "Tue Nov 24, 3:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/where-will-you-meet-your-spouse",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b028dd5cc364169c1327120",
+    "6b028dd5cc364169c1327149"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "D1",
+   "title": "Scorpio: why your career struggled in 2026, and when it turns",
+   "folder": "d-001-scorpio-career",
+   "dueAt": "2026-11-24T17:00:00.000Z",
+   "when": "Tue Nov 24, 12:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/scorpio-career-2026",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b051cb69a4bd32ca3f67877",
+    "6b051cb76734c08a26b3da73"
+   ],
+   "note": "Took the list reel's two posts for the day (the owner, Nov 24 2026). YouTube refused: 2 posts a day.",
+   "replaced": ""
+  },
+  {
+   "n": "C2",
+   "title": "Virgo: your love life right now",
+   "folder": "c-002-virgo-love-now",
+   "dueAt": "2026-11-24T14:00:00.000Z",
+   "when": "Tue Nov 24, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/virgo-love-right-now",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b028dd2d864a01105a149c0",
+    "6b028dd302479690922c492f",
+    "6b028dd302479690922c4961"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "A6",
+   "title": "Capricorn: your 2027 in 60 seconds",
+   "folder": "a-006-capricorn-2027",
+   "dueAt": "2026-11-24T01:00:00.000Z",
+   "when": "Mon Nov 23, 8:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/capricorn-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b034020846b0ee907af72c0",
+    "6b034021c72676f5e95387ec",
+    "6b034021c72676f5e9538816"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "11",
+   "title": "Rahu: why you fall too hard, too fast",
+   "folder": "b-011-rahu-in-5th",
+   "dueAt": "2026-11-23T20:00:00.000Z",
+   "when": "Mon Nov 23, 3:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/rahu-why-you-fall-too-hard",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b013b5dd9cbb430a1254dea",
+    "6b013b5e5e993799d858d0d3"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "list",
+   "title": "The most problematic zodiac signs, ranked",
+   "folder": "p-001-most-problematic",
+   "dueAt": "2026-11-23T17:00:00.000Z",
+   "when": "Mon Nov 23, 12:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b0363c5d864a01105fa6f3d",
+    "6b0363c5bf5d5a73b6c4efd8"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "C4",
+   "title": "Libra: tired of fighting small battles every day?",
+   "folder": "c-004-libra-now",
+   "dueAt": "2026-11-23T14:00:00.000Z",
+   "when": "Mon Nov 23, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/libra-next-two-months",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b03e189a6de38de9ec60fe7",
+    "6b03e18ad5eabfb8cc10c8e4",
+    "6b03e18bd864a011052a1eff"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "A3",
+   "title": "Leo: your 2027 in 60 seconds",
+   "folder": "a-003-leo-2027",
+   "dueAt": "2026-11-23T01:00:00.000Z",
+   "when": "Sun Nov 22, 8:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/leo-2027",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b013ac7dd205ed779c434ca",
+    "6b013ac820a2d09a0adb3689",
+    "6b013ac8d9cbb430a1252b9b"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "list",
+   "title": "This week, Nov 23 to 29, for every zodiac sign",
+   "folder": "t-003-this-week-nov23",
+   "dueAt": "2026-11-22T17:00:00.000Z",
+   "when": "Sun Nov 22, 12:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b027918d864a011059ad0bb",
+    "6b027918846b0ee9075fb0f5"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "ag-008-when-job",
+   "title": "When will you get a job? What your chart looks at",
+   "folder": "ag-008-when-job",
+   "dueAt": "2026-11-22T15:08:58.000Z",
+   "when": "Sun Nov 22, 10:09 AM ET",
+   "guide": "https://www.astrolguru.com/guides/when-will-you-get-a-job",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b00b5445102766245d1b706",
+    "6b00b5455102766245d1b76e"
+   ],
+   "note": "re-made on Nov 22 with the Moon signs that have a job window now (line 3), on the owner's request, and posted at once",
+   "replaced": ""
+  },
+  {
+   "n": "wk-20261123-earth",
+   "title": "Taurus, Virgo, Capricorn: your week ahead (Nov 23-29)",
+   "folder": "wk-20261123-earth",
+   "dueAt": "2026-11-22T14:00:00.000Z",
+   "when": "Sun Nov 22, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/earth-week-nov-23",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b00b541dd205ed77996c4a4",
+    "6b00b542d9cbb430a1f7777b",
+    "6b00b543d9cbb430a1f777cf"
+   ],
+   "note": "the owner deleted this reel from Instagram on Nov 22 (did not like it; \"To watch:\" read aloud felt weird)",
+   "replaced": ""
+  },
+  {
+   "n": "list",
+   "title": "Every Moon sign's best trait",
+   "folder": "l-001-best-trait",
+   "dueAt": "2026-11-22T03:00:00.000Z",
+   "when": "Sat Nov 21, 10:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b01e1730247969092f2ceac",
+    "6b01e1748bd84d59660d2075"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "A2",
+   "title": "Pisces: your 2027 in 60 seconds",
+   "folder": "a-002-pisces-2027",
+   "dueAt": "2026-11-22T01:00:00.000Z",
+   "when": "Sat Nov 21, 8:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b00bcba5102766245d4c9a3",
+    "6b00bcbb9ffbc8503cd8f2f7",
+    "6b00bcbcdd205ed77999fb28"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "ag-007-saturn-7th-house",
+   "title": "Saturn in the 7th house",
+   "folder": "ag-007-saturn-7th-house",
+   "dueAt": "2026-11-21T20:00:00.000Z",
+   "when": "Sat Nov 21, 3:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b00b53b20a2d09a0aaddaf3",
+    "6b00b53c20a2d09a0aaddb79"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "list",
+   "title": "Every zodiac sign's worst habit",
+   "folder": "l-002-worst-habit",
+   "dueAt": "2026-11-21T18:47:00.000Z",
+   "when": "Sat Nov 21, posted at once",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b01e684846b0ee9072df406",
+    "6b01e6850247969092f476b4"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "list",
+   "title": "Full Moon, Nov 24: what it lights up",
+   "folder": "t-001-full-moon-nov24",
+   "dueAt": "2026-11-21T18:33:00.000Z",
+   "when": "Sat Nov 21, moved up to post at once",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b01e1718bd84d59660d1d76",
+    "6b01e172142c957519357260"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "sg-004-cancer-2027",
+   "title": "Cancer: your 2027 in 60 seconds",
+   "folder": "sg-004-cancer-2027",
+   "dueAt": "2026-11-21T14:00:00.000Z",
+   "when": "Sat Nov 21, 9:00 AM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b00b53620a2d09a0aadd6aa",
+    "6b00b5379ffbc8503cd60b02",
+    "6b00b538d9cbb430a1f772b3"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "sg-003-gemini-2027",
+   "title": "Gemini: your 2027 in 60 seconds",
+   "folder": "sg-003-gemini-2027",
+   "dueAt": "2026-11-21T01:00:00.000Z",
+   "when": "Fri Nov 20, 8:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b00b5335e993799d82ae728",
+    "6b00b534d9cbb430a1f770f7",
+    "6b00b5359ffbc8503cd609b6"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "9",
+   "title": "Are you Manglik? What it really means",
+   "folder": "story-004-manglik",
+   "dueAt": "2026-11-20T20:00:00.000Z",
+   "when": "Fri Nov 20, 3:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6b001742d6ba71125faea117",
+    "6b00174329e3b73db736beea"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "A1",
+   "title": "Scorpio rising: your next six months",
+   "folder": "story-001-scorpio-rising",
+   "dueAt": "2026-11-20T14:00:00.000Z",
+   "when": "Fri Nov 20, 9:00 AM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6b00173f29e3b73db736be4a",
+    "6b001740d6ba71125faea026",
+    "6b001741b3576a91c14d19d1"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "S2",
+   "title": "Taurus: your 2027 in 60 seconds",
+   "folder": "sg-002-taurus-2027",
+   "dueAt": "2026-11-20T01:00:00.000Z",
+   "when": "Thu Nov 19, 8:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6afd47d6152518c7f464e2e6",
+    "6afd47d7e7dde8d4fcd06930",
+    "6afd47d7e7dde8d4fcd06968"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "6",
+   "title": "What will your spouse look like?",
+   "folder": "ag-006-spouse-look",
+   "dueAt": "2026-11-19T20:00:00.000Z",
+   "when": "Thu Nov 19, 3:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6afd47d42a7c523fe2b11c82",
+    "6afd47d4152518c7f464e1c1",
+    "6afd47d5739d5342ff0d3511"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "month-2026-12-taurus",
+   "title": "Taurus: your December 2026",
+   "folder": "mo-202612-taurus",
+   "dueAt": "2026-11-19T14:00:00.000Z",
+   "when": "Thu Nov 19, 9:00 AM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube",
+    "instagram"
+   ],
+   "postIds": [
+    "6afd47d20f01b387a1622ce5",
+    "6afd47d20f01b387a1622d1c",
+    "6afd47d3739d5342ff0d3497"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "S1",
+   "title": "Aries: your 2027 in 60 seconds",
+   "folder": "sg-001-aries-2027",
+   "dueAt": "2026-11-19T01:00:00.000Z",
+   "when": "Wed Nov 18, 8:00 PM ET",
+   "guide": "",
+   "services": [
+    "youtube",
+    "instagram",
+    "tiktok"
+   ],
+   "postIds": [
+    "6afc8cdd7a7b613f16931cc8",
+    "6afc8cddf78506c8dd3aad6a",
+    "6afc8e9aafa176f5999eb782"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "5",
+   "title": "Rahu mahadasha: the 18 years everyone fears",
+   "folder": "ag-005-rahu-mahadasha",
+   "dueAt": "2026-11-18T20:00:00.000Z",
+   "when": "Wed Nov 18, 3:00 PM ET",
+   "guide": "",
+   "services": [
+    "youtube",
+    "instagram",
+    "tiktok"
+   ],
+   "postIds": [
+    "6afc8cdbafa176f5999e1f33",
+    "6afc8cdc0ec7d2b08234663c",
+    "6afc8e97f78506c8dd3b4b54"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "4",
+   "title": "Love marriage or arranged? The signs in your chart",
+   "folder": "ag-004-love-or-arranged",
+   "dueAt": "2026-11-18T14:00:00.000Z",
+   "when": "Wed Nov 18, 9:00 AM ET",
+   "guide": "",
+   "services": [
+    "youtube",
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6afbf4f4f83aaca8f3b4bdd2",
+    "6afc8e92afa176f5999eb483",
+    "6afc8e93afa176f5999eb4b4"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "3",
+   "title": "Sun in the 1st house",
+   "folder": "ag-003-sun-1st-house",
+   "dueAt": "2026-11-18T01:00:00.000Z",
+   "when": "Tue Nov 17, 8:00 PM ET",
+   "guide": "",
+   "services": [
+    "youtube",
+    "tiktok",
+    "instagram"
+   ],
+   "postIds": [
+    "6afbf4f2df36f4d825743d74",
+    "6afc8e8f7a7b613f1693c7bb",
+    "6afc8e907a7b613f1693c7ec"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "month-2026-12-aries",
+   "title": "Aries: your December 2026",
+   "folder": "mo-202612-aries",
+   "dueAt": "2026-11-17T20:00:00.000Z",
+   "when": "Tue Nov 17, 3:00 PM ET",
+   "guide": "",
+   "services": [
+    "youtube",
+    "instagram",
+    "tiktok"
+   ],
+   "postIds": [
+    "6afc8cd9a166de7b3ec4c1d1",
+    "6afc8cdaf78506c8dd3aab0e",
+    "6afc8e95104bf3e6249575a5"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "2",
+   "title": "When will you get married? What your chart looks at",
+   "folder": "ag-002-when-married",
+   "dueAt": "2026-11-17T14:00:00.000Z",
+   "when": "Tue Nov 17, 9:00 AM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube"
+   ],
+   "postIds": [
+    "6afb27cb0c8c027c5733c897",
+    "6afb27cc37f32fd42a386716"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "0",
+   "title": "You're probably not the sign you think you are",
+   "folder": "astro-001-not-your-sign",
+   "dueAt": "2026-11-17T01:00:00.000Z",
+   "when": "Mon Nov 16, 8:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube"
+   ],
+   "postIds": [
+    "6afb1f68ea36834a96c1814c",
+    "6afb1f6812f2f788dabafd34"
+   ],
+   "note": "",
+   "replaced": ""
+  },
+  {
+   "n": "1",
+   "title": "Sade Sati: are you in it right now?",
+   "folder": "ag-001-sade-sati",
+   "dueAt": "2026-11-16T22:00:00.000Z",
+   "when": "Mon Nov 16, 5:00 PM ET",
+   "guide": "",
+   "services": [
+    "tiktok",
+    "youtube"
+   ],
+   "postIds": [
+    "6afb27c90c8c027c5733c7fa",
+    "6afb27ca56f128f114f87675"
+   ],
+   "note": "",
+   "replaced": ""
+  }
+ ],
+ "pending": [],
+ "skipped": [
+  {
+   "line": "A5",
+   "title": "Cancer 2027",
+   "why": "already posted on Nov 21 2026 as 'Cancer: your 2027 in 60 seconds' (sg-004-cancer-2027)"
+  },
+  {
+   "line": "A7",
+   "title": "Gemini 2027",
+   "why": "already posted on Nov 21 2026 as 'Gemini: your 2027 in 60 seconds' (sg-003-gemini-2027)"
+  },
+  {
+   "line": "A10",
+   "title": "Taurus 2027",
+   "why": "already posted on Nov 20 2026 as 'Taurus: your 2027 in 60 seconds' (sg-002-taurus-2027)"
+  },
+  {
+   "line": "C3",
+   "title": "Aquarius: money stress and a short temper? It is the last stretch",
+   "why": "a repeat: 'Aquarius: your 2027 in 60 seconds' (a-008, posts Nov 24) has the same headline, the last stretch of Sade Sati with Saturn in the house of money"
+  },
+  {
+   "line": "C5",
+   "title": "Capricorn: something big shifts in you on December 5",
+   "why": "a repeat: 'Capricorn: your 2027 in 60 seconds' (a-006, posts Nov 23) has the same headline, Rahu onto the sign on December 5"
+  },
+  {
+   "line": "13",
+   "title": "Pisces Moon: you are at the peak of Sade Sati",
+   "why": "a repeat: 'Sade Sati: are you in it right now?' (ag-001) already gave Pisces at the peak, and 'Pisces: your 2027' (a-002) covered Saturn on the sign"
+  },
+  {
+   "line": "14",
+   "title": "Moon sign vs Sun sign: which one is really you?",
+   "why": "a repeat: viewers would take it for 'You're probably not the sign you think you are' (astro-001)"
+  },
+  {
+   "line": "C7",
+   "title": "Sagittarius: why home feels heavy right now",
+   "why": "a repeat: 'Sagittarius: your 2027 in 60 seconds' (a-011, posts Nov 25) has the same headline, home's felt heavy with Saturn in the house of home; it would also post the morning after that film"
+  },
+  {
+   "line": "A32",
+   "title": "Aquarius: money has been tight. Here is when it loosens",
+   "why": "a repeat: 'Aquarius: your 2027 in 60 seconds' (a-008, posted Nov 24) led with Saturn's last stretch in the house of money, the same headline (as C3 was skipped on Nov 24)"
+  }
+ ],
+ "removed": [
+  {
+   "title": "Aries, Leo, Sagittarius: your week ahead (Nov 23-29)",
+   "folder": "wk-20261123-fire",
+   "why": "says the full moon is Wednesday Nov 25; it is Tuesday Nov 24 (US Eastern). Never post it."
+  },
+  {
+   "title": "Taurus right now",
+   "folder": "story-003-taurus-now",
+   "why": "story format; removed from the queue on Nov 20 2026 when the owner went back to the Maya-on-the-globe format"
+  },
+  {
+   "title": "Pisces 2027",
+   "folder": "story-002-pisces-2027",
+   "why": "story format; removed from the queue on Nov 20 2026 when the owner went back to the Maya-on-the-globe format"
+  },
+  {
+   "title": "Rahu in the 5th house",
+   "folder": "b-011-rahu-5th-house",
+   "why": "story format; removed from the queue on Nov 20 2026 when the owner went back to the Maya-on-the-globe format"
+  },
+  {
+   "title": "Virgo relationships",
+   "folder": "c-002-virgo-relationships",
+   "why": "story format; removed from the queue on Nov 20 2026 when the owner went back to the Maya-on-the-globe format"
+  },
+  {
+   "title": "Leo 2027",
+   "folder": "a-003-leo-jupiter-home",
+   "why": "story format; removed from the queue on Nov 20 2026 when the owner went back to the Maya-on-the-globe format"
+  },
+  {
+   "title": "Taurus: your next 2 months in 60 seconds",
+   "folder": "c-001-taurus-now",
+   "why": "a repeat (Taurus: your December 2026 was posted Nov 19; Aries: your 2027 on Nov 19); the owner asked to skip it on Nov 22 2026 and it was taken out of Buffer's queue before posting. Never post it."
+  },
+  {
+   "title": "Aries: your 2027 in 60 seconds",
+   "folder": "a-004-aries-2027",
+   "why": "a repeat (Taurus: your December 2026 was posted Nov 19; Aries: your 2027 on Nov 19); the owner asked to skip it on Nov 22 2026 and it was taken out of Buffer's queue before posting. Never post it."
+  },
+  {
+   "title": "Aries: your next five weeks in love",
+   "folder": "b-115-aries-venus-love",
+   "why": "made, then taken out of its Nov 25 slot for 'All about Aries in 60 seconds' at the owner's request (Nov 25 2026). Not posted. It covers Venus in Libra until Jan 1 2027, so it is only worth posting before then, and only if the owner asks."
+  },
+  {
+   "title": "Taurus: your window to move abroad",
+   "folder": "b-116-taurus-abroad",
+   "why": "Not posted. The owner stopped topic films on Nov 25 2026; its slot went to the first event film. Post it only if the owner asks."
+  },
+  {
+   "title": "Leo: your love life in 2027",
+   "folder": "a-015-leo-love-2027",
+   "why": "Made and never posted: the owner put a career film in its slot on Nov 26 2026. Post it only if the owner asks."
+  }
+ ],
+ "listsStopped": "2026-11-22: the owner stopped list reels; the routine is disabled"
+}
