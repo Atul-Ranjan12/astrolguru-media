@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-27T06:54:58Z",
- "commit": "54a066f",
+ "generatedAt": "2026-11-28T07:20:01Z",
+ "commit": "7f45451",
  "perDay": 4,
  "slotsET": [
   "09:00",
@@ -255,13 +255,26 @@
      "id": "A38",
      "title": "Cancer: your 2027, half by half: the lucky half and the building half",
      "note": "the year again",
-     "state": "next"
+     "state": "made",
+     "when": "Sun Nov 29, 8:00 PM ET",
+     "dueAt": "2026-11-30T01:00:00.000Z",
+     "folder": "a-038-cancer-2027",
+     "guide": "https://www.astrolguru.com/guides/cancer-2027-half-by-half",
+     "posted": "Cancer: your 2027, half by half",
+     "services": [
+      "tiktok",
+      "youtube"
+     ],
+     "postIds": [
+      "6b0a8089d7e53b12ebe80447",
+      "6b0a808ad718580fbd68e051"
+     ]
     },
     {
      "id": "A39",
      "title": "Aries: the three dates that turn your 2027",
      "note": "the year again",
-     "state": "waiting"
+     "state": "next"
     },
     {
      "id": "A40",
@@ -394,6 +407,25 @@
      ]
     },
     {
+     "id": "A26",
+     "title": "Pisces: the surprise income source of 2027",
+     "note": "work and money",
+     "state": "made",
+     "when": "Mon Nov 30, 9:00 AM ET",
+     "dueAt": "2026-11-30T14:00:00.000Z",
+     "folder": "a-026-pisces-money-2027",
+     "guide": "https://www.astrolguru.com/guides/pisces-money-2027",
+     "posted": "Pisces: your money in 2027",
+     "services": [
+      "tiktok",
+      "youtube"
+     ],
+     "postIds": [
+      "6b0a808bfe7140cdac9a6639",
+      "6b0a808cd089f5457197347a"
+     ]
+    },
+    {
      "id": "A31",
      "title": "Gemini: the work pressure eases in June",
      "note": "work and money",
@@ -441,16 +473,10 @@
      ]
     },
     {
-     "id": "A26",
-     "title": "Pisces: the surprise income source of 2027",
-     "note": "work and money",
-     "state": "next"
-    },
-    {
      "id": "A28",
      "title": "Aries: an unexpected career jump is on the table",
      "note": "work and money",
-     "state": "waiting"
+     "state": "next"
     },
     {
      "id": "A19",
@@ -1448,13 +1474,24 @@
      "id": "E5",
      "title": "All about Pisces in 60 seconds",
      "note": "Jupiter, water: the dreamer; compassion, and boundaries",
-     "state": "next"
+     "state": "made",
+     "when": "Sun Nov 29, 12:00 PM ET",
+     "dueAt": "2026-11-29T17:00:00.000Z",
+     "folder": "all-005-pisces",
+     "guide": "https://www.astrolguru.com/guides/pisces-all-about",
+     "posted": "All about Pisces in 60 seconds",
+     "services": [
+      "tiktok"
+     ],
+     "postIds": [
+      "6b0a8083d7e53b12ebe80224"
+     ]
     },
     {
      "id": "E6",
      "title": "All about Taurus in 60 seconds",
      "note": "Venus, earth: the steady one; loyalty, and stubbornness",
-     "state": "waiting"
+     "state": "next"
     },
     {
      "id": "E7",
@@ -1522,7 +1559,8 @@
      "id": "F2",
      "title": "Capricorn: Rahu and Ketu change signs on December 5",
      "note": "2026-12-05",
-     "state": "next"
+     "state": "skipped",
+     "why": "a repeat: 'Capricorn: your 2027 in 60 seconds' (a-006, posted Nov 23) led with Rahu moving onto the sign on December 5, the same headline (as C5 was skipped on Nov 24)"
     },
     {
      "id": "F3",
@@ -1545,13 +1583,24 @@
      "id": "F4",
      "title": "Leo: Rahu and Ketu change signs on December 5",
      "note": "2026-12-05",
-     "state": "waiting"
+     "state": "made",
+     "when": "Sun Nov 29, 3:00 PM ET",
+     "dueAt": "2026-11-29T20:00:00.000Z",
+     "folder": "f-004-leo-nodes",
+     "guide": "https://www.astrolguru.com/guides/leo-rahu-ketu-december-5",
+     "posted": "Leo: Rahu and Ketu change signs on December 5",
+     "services": [
+      "tiktok"
+     ],
+     "postIds": [
+      "6b0a8088d718580fbd68dfe1"
+     ]
     },
     {
      "id": "F5",
      "title": "Libra: Rahu and Ketu change signs on December 5",
      "note": "2026-12-05",
-     "state": "waiting"
+     "state": "next"
     },
     {
      "id": "F6",
@@ -1757,6 +1806,74 @@
   }
  ],
  "films": [
+  {
+   "n": "A26",
+   "title": "Pisces: your money in 2027",
+   "folder": "a-026-pisces-money-2027",
+   "dueAt": "2026-11-30T14:00:00.000Z",
+   "when": "Mon Nov 30, 9:00 AM ET",
+   "guide": "https://www.astrolguru.com/guides/pisces-money-2027",
+   "services": [
+    "tiktok",
+    "youtube"
+   ],
+   "postIds": [
+    "6b0a808bfe7140cdac9a6639",
+    "6b0a808cd089f5457197347a"
+   ],
+   "note": "Instagram channel disconnected in Buffer: not posted there",
+   "replaced": ""
+  },
+  {
+   "n": "A38",
+   "title": "Cancer: your 2027, half by half",
+   "folder": "a-038-cancer-2027",
+   "dueAt": "2026-11-30T01:00:00.000Z",
+   "when": "Sun Nov 29, 8:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/cancer-2027-half-by-half",
+   "services": [
+    "tiktok",
+    "youtube"
+   ],
+   "postIds": [
+    "6b0a8089d7e53b12ebe80447",
+    "6b0a808ad718580fbd68e051"
+   ],
+   "note": "Instagram channel disconnected in Buffer: not posted there",
+   "replaced": ""
+  },
+  {
+   "n": "F4",
+   "title": "Leo: Rahu and Ketu change signs on December 5",
+   "folder": "f-004-leo-nodes",
+   "dueAt": "2026-11-29T20:00:00.000Z",
+   "when": "Sun Nov 29, 3:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/leo-rahu-ketu-december-5",
+   "services": [
+    "tiktok"
+   ],
+   "postIds": [
+    "6b0a8088d718580fbd68dfe1"
+   ],
+   "note": "Instagram channel disconnected in Buffer: not posted there",
+   "replaced": ""
+  },
+  {
+   "n": "E5",
+   "title": "All about Pisces in 60 seconds",
+   "folder": "all-005-pisces",
+   "dueAt": "2026-11-29T17:00:00.000Z",
+   "when": "Sun Nov 29, 12:00 PM ET",
+   "guide": "https://www.astrolguru.com/guides/pisces-all-about",
+   "services": [
+    "tiktok"
+   ],
+   "postIds": [
+    "6b0a8083d7e53b12ebe80224"
+   ],
+   "note": "Instagram channel disconnected in Buffer: not posted there",
+   "replaced": ""
+  },
   {
    "n": "A33",
    "title": "Virgo: your money in 2027",
@@ -2732,6 +2849,11 @@
    "line": "A32",
    "title": "Aquarius: money has been tight. Here is when it loosens",
    "why": "a repeat: 'Aquarius: your 2027 in 60 seconds' (a-008, posted Nov 24) led with Saturn's last stretch in the house of money, the same headline (as C3 was skipped on Nov 24)"
+  },
+  {
+   "line": "F2",
+   "title": "Capricorn: Rahu and Ketu change signs on December 5",
+   "why": "a repeat: 'Capricorn: your 2027 in 60 seconds' (a-006, posted Nov 23) led with Rahu moving onto the sign on December 5, the same headline (as C5 was skipped on Nov 24)"
   }
  ],
  "removed": [
